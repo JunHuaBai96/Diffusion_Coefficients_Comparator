@@ -14,9 +14,9 @@ Place the Excel file with your data in the project directory.
 
 Run the MATLAB script comparison.m.
 
-matlab
+matlab'''
 复制代码
-comparison
+comparison'''
 Select the Excel file (comparisons.xlsx) when prompted.
 
 The script will read the data from 'Sheet1' and 'Sheet2' of the selected Excel file and plot the comparison graph.
